@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PFD4000">
+</Property><Property Name="Solution File" Value="F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\PFD4000.sln">
+</Property><Property Name="User Options File" Value="F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\PFD4000.suo">
+</Property><Property Name="Date" Value="12 Aralık 2012 Çarşamba">
+</Property><Property Name="Time" Value="14:53">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PFD4000.sln" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\PFD4000.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PFD4000.suo" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\PFD4000.suo">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="PFD4000.csproj" Description="Project file successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\PFD4000.csproj">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="Form1.cs" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="Form1.Designer.cs" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="PFD4000ParserObject.cs" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\PFD4000ParserObject.cs">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="PoliCustomEventArgs.cs" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\PoliCustomEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="PoliWSSendDataObject.cs" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\PoliWSSendDataObject.cs">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="Program.cs" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="TerminalDataObject.cs" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\TerminalDataObject.cs">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="TermMsgColor.cs" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\TermMsgColor.cs">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="Properties\Settings.settings" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="Form1.resx" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="Properties\Resources.resx" Description="File successfully backed up as F:\- A S P    D O T    N E T    P R O J E C T S -\WindowsUygulamalari\PoliUtilities\PDF4000Sdk\PFD4000\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="PFD4000.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PFD4000" Source="PFD4000.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PFD4000.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PFD4000.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PFD4000" Source="PFD4000.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
