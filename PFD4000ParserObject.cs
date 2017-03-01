@@ -137,7 +137,6 @@ namespace PFD4000 {
 
                         break;
                     case "SALE":  /* Cihaza kart okutuldu. Online çalışma. */
-                        // SALE:EC000601,0,0050C2235000,0,0,0
                         tomidPrm = dz2[0];
                         degerPrm = dz2[1];
                         imeiPrm = dz2[2];
@@ -168,7 +167,6 @@ namespace PFD4000 {
 
                         // izinPrm      = dz2[5];
                         // aktarinPrm   = dz2[6];
-                        // OSALE:00C884C7,1,0050C2235DA7,1327923592,0,0
                         // acc2000ResponseToTerminal(retObj, commandStr, tomidPrm, imeiPrm, dsCmdData);
                         break;
                     case "PER":  /* Cihaz offline çalışma için personel kart listesini istemektedir. Kart listesi cihaza gönderilecek. */
